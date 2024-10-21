@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif; 
+    text-align: center; 
+    background-color: white; 
+    color: black; 
+    padding: 50px; 
+}
+
+h1 {
+    color: black; 
+}
+
+#excuse {
+    font-size: 1.5em; 
+    margin: 20px 0; 
+}
+
+button {
+    padding: 10px 20px; 
+    font-size: 1em; 
+    color: white; 
+    background-color: black; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: gray; 
+}
